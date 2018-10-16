@@ -1,0 +1,57 @@
+.image-background {background-color: #ad8bb8;}
+.background-color {background-color: #e2eaed;}
+.text-color {color: #2e1771;}
+.link-color {color: #71172d;}
+.title-color {color: #5b1771;}
+.heading-color {color: #175a71;}
+
+h1 {
+  text-align: center;
+  font-family: "Mali", cursive;
+  font-saize: 45px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  max-height: 300px;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+
+h2 {
+  font-family: "Mali", cursive;
+}
+
+p {
+  font-family: "Raleway", sans-serif;
+}
+
+#title, #subtitle, #image-caption, #tribute-info-heading, #quote, #link-text, #author-text {
+  text-align: center;
+}
+
+#image-div {
+  margin: 0 auto;
+  height: 350px;
+  width: 30%;
+}
+
+#image-caption {
+  font-family: "Mali", cursive;
+}
+
+#tribute-info {
+  font-family: "Raleway", sans-serif;
+}
+
+#tribute-timeline {
+  max-width: 800px;
+  margin-left: 15%;
+  font-family: "Raleway", sans-serif;
+  line-height: 1.5;
+}
+
+#quote {
+  font-family: "Mali", cursive;
+}
